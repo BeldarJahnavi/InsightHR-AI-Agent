@@ -45,8 +45,6 @@ This agent is highly efficient, free, and uses entirely open-source tools.
 
 ##  Architecture
 
-![Architecture Diagram](InsightHR_Architecture.png)
-
 The system consists of three major layers:
 
 ### 🔹 1. User Layer  
