@@ -1,0 +1,5 @@
+Leave Policy:
+- Annual leave: 18 days
+- Sick leave: 12 days
+- Maternity leave: 26 weeks
+- Paternity leave: 7 days

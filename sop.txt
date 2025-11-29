@@ -1,0 +1,4 @@
+Onboarding:
+- Submit ID proof
+- Attend HR welcome meeting
+- Laptop issued within 3 working days
